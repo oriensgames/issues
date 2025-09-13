@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📧 Email Support
+    url: mailto:support@oriensgames.com
+    about: Contact our support team directly for private inquiries or urgent issues
+  - name: 🌐 Support Page
+    url: https://oriensgames.com/support
+    about: Check our comprehensive FAQ and troubleshooting guide
+  - name: 💬 Community Discussions
+    url: https://github.com/oriensgames/issues/discussions
+    about: Join community discussions, share tips, and connect with other players
