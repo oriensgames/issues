@@ -27,8 +27,8 @@ Choose the appropriate template based on your needs:
 | 🆘 **General Support** | [General Help](../../issues/new?template=general_support.md) | Everything else |
 
 ### Other Ways to Get Help
-- 📧 **Email:** [support@oriensgames.com](mailto:support@oriensgames.com) - Private inquiries
-- 🌐 **Support Page:** [oriensgames.com/support](https://oriensgames.com/support) - FAQ & guides
+- 📧 **Email:** [support@oriens.games](mailto:support@oriens.games) - Private inquiries
+- 🌐 **Support Page:** [oriens.games/support](https://oriens.games/support) - FAQ & guides
 - 💬 **Discussions:** [Community Forum](../../discussions) - Connect with other players
 
 ---
@@ -95,8 +95,8 @@ We use these labels to organize and prioritize issues:
 
 ## 📞 Contact Information
 
-- **Support Email:** [support@oriensgames.com](mailto:support@oriensgames.com)
-- **Website:** [oriensgames.com](https://oriensgames.com)
+- **Support Email:** [support@oriens.games](mailto:support@oriens.games)
+- **Website:** [oriens.games](https://oriens.games)
 - **Response Time:** We typically respond within 24 hours
 
 ---
